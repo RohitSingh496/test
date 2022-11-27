@@ -1,7 +1,12 @@
 # test
-###This is a test repository.
+### This is a test repository.
 *It is only created as means to test some workings in git cli.*
-`git add file-name`
+
+---
+
+`git add file-name
+ git config --global user.name user-name
+` 
 `git add remote origin link-of-remote-repo.git`
 `git push origin master`
 `git pull origin master`
