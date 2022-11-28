@@ -1,2 +1,5 @@
-yet another file
-new changes are: hey
+Next Day's edits.
+This file contains nothing.
+Well, that's incorrect.
+It contains some lines.
+Although, the lines have no meaning.
