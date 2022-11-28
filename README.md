@@ -6,7 +6,7 @@
 
 `git add file-name`
 
-`git add remote origin link-of-remote-repo.git`
+`git remote add origin link-of-remote-repo.git`
 
 `git push origin master`
 
