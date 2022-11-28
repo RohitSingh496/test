@@ -1,6 +1,6 @@
 # test
 ### This is a test repository.
-*It is only created as means to test some workings in git cli.*
+*It is only created as a means to test some workings in git cli.*
 
 ---
 
@@ -26,3 +26,6 @@
 
 **Only the above listed commands were tested.**
 
+:bulb: *Testing...*
+:memo: *Note...*
+:warning: *Warn!*
